@@ -5760,3 +5760,11 @@ body.search-is-visible {
         padding-top: var(--vspace-1);
     }
 }
+
+.myimg {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    background-size: cover;
+    background-position: center;
+}
